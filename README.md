@@ -6,9 +6,6 @@ Website for project 1 in [CS5610 Web Development](https://johnguerra.co/classes/
 
 ## How to Start
 
-- Install node js on your computer.
-- cd to root directory, input "npm install" for dependencies
-- input "npm start" to start the development server
 - To run eslint on the project inout the command "npm run lint".
 - To open the webpage input "open ./index.html" in the terminal. 
 
