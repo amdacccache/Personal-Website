@@ -1,6 +1,6 @@
 # Project1
 
-Website for project 1 [CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/) project 1. The goal was to build a personal website that showed who you are and to incorporate a grid, using either Bootstrap or flexbox.
+Website for project 1 in [CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/). The goal was to build a personal website that showed who you are and to incorporate a grid, using either Bootstrap or flexbox.
 
 ![Home page of website](images/homepage.png)
 
