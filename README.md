@@ -1,4 +1,4 @@
-# Project1
+# Anna's Home Page
 
 Website for project 1 in [CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/). The goal was to build a personal website that showed who you are and to incorporate a grid, using either Bootstrap or flexbox.
 
